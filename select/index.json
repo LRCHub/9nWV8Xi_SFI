@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "可惜夜花火",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-01-02T15:55:18.054391Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "可惜夜花火",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_可惜夜花火_スリーズブーケ.txt"
+    }
+  ]
+}
